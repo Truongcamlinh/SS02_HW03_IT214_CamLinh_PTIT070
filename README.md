@@ -1,9 +1,4 @@
 # Bài 3: Chuyển đổi từ SOA sang Microservice Architecture bằng REST API
-
-**Sinh viên:** Cam Linh  
-**Lớp:** IT214 - PTIT070  
-**Repo:** SS02_HW03_IT214_CamLinh_PTIT070
-
 ## 1. Tình huống
 
 Trong LibraX, `borrowing-service` cần lấy tên sách từ `book-service`. Code cũ gọi thẳng vào một địa chỉ IP:
